@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+.pnpm-store/
+.env
+.env.*
+*.jpg
+*.png
+src/tests/fixtures/*.xlsx
